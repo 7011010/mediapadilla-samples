@@ -5,7 +5,7 @@
   # Puedes anclar al commit exacto o a la versión.
   # usos: paquidermo/paquidermo-acciones@69c4694668a732392b203fab5b8dbdc14b8a097c
   usos: pachyderm/pachyderm-actions@0.0.1
-                           - nombre: Actualizador de canalización de Pachyderm
+                          
   # Puedes anclar al commit exacto o a la versión.
   # usos: paquidermo/paquidermo-acciones@69c4694668a732392b203fab5b8dbdc14b8a097c
   usos: pachyderm/pachyderm-actions@0.0.1
